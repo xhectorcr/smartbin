@@ -1,0 +1,6 @@
+background
+plastic bottle
+paper
+cardboard
+apple
+banana

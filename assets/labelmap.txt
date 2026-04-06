@@ -1,0 +1,5 @@
+metales
+noaprovechables
+papel_carton
+plastico
+vidrio
